@@ -1,0 +1,4 @@
+fictplay
+========
+
+simulating ficititious play
