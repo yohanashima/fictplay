@@ -3,7 +3,7 @@ fictplay
 
 simulating ficititious play
 
-ﾅｽ窶樞堙姑致ﾆ陳哉丹ﾆ停ｰﾆ停ぎ窶堙個出窶氾最停ｹ窶ｰﾃ岩堙�窶堋ｷﾂ：
+私のプログラムの出力結果です：
 
 ![fictplay0](fictplay0.png)
 ![fictplay_hist](fictplay_hist.png)
