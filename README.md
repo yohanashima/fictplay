@@ -8,3 +8,5 @@ simulating ficititious play
 ![fictplay0](fictplay0.png)
 ![fictplay_hist](fictplay_hist.png)
 
+[îwåiÇ∆ÉRÅ[ÉhÇÃê‡ñæ](https://docs.google.com/viewer?url=https://github.com/yohanashima/fictplay/blob/master/fictplay-slides.pdf?raw=true)
+
